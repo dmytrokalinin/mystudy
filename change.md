@@ -1,1 +1,1 @@
-some text in the file change.md
+some initial text in the file change.md
